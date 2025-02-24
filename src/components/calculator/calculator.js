@@ -116,7 +116,7 @@ const Calculator = () => {
   return (
     <CalculatorContainer>
       <CalculatorCard>
-        <Title style={{ color: "#DE9BA3" }}>Scientific Calculator</Title>
+        <Title style={{ color: "#DE9BA3" }}>Calculator</Title>
         <Screen>
           <InputText>{input}</InputText>
           <OutputText>{output}</OutputText>

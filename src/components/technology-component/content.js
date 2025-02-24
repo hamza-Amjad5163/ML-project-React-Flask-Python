@@ -18,7 +18,7 @@ const Content = () => {
                 </span>
                 <h4>React</h4>
                 <p style={{ textAlign: "justify" }}>
-                  React is a JavaScript library for building fast, interactive
+                  React is a JavaScript library for building fast,interactive
                   UIs with reusable components and efficient state management.
                 </p>
 

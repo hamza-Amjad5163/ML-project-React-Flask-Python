@@ -111,7 +111,7 @@ const Netflix = () => {
 
   return (
     <div className="px-4">
-      <h2 className="text-center my-5">Netflix & IMDB Survey</h2>
+      <h2 className="text-center my-5">Netflix & Imdb Survey</h2>
       <div className="d-flex justify-content-between">
         <div className="chart-container" style={{ width: "48%" }}>
           <h4>Netflix Survey</h4>

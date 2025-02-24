@@ -50,7 +50,7 @@ const HighchartComponent = () => {
 
   return (
     <div>
-      <h2 className="text-center my-5">Stack Overflow Survey 2016 -Programming Languages</h2>
+      <h2 className="text-center my-5">Stack Overflow Survey 2016 - Programming Languages</h2>
       {chartData ? (
         <HighchartsReact highcharts={Highcharts} options={chartData} />
       ) : (
